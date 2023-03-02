@@ -1,0 +1,41 @@
+body {
+    background-image: url('tło.jpg');
+    font-family: Georgia, Arial, Helvetica;
+}
+
+.container {
+    max-width: 500px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    background-color:rgb(143, 220, 210);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+    
+    h2 {
+
+    background-color: rgb(222, 64, 39) ;    
+    text-align: center;++
+    
+    }
+
+h3 {
+    background-color: rgb(143, 82, 33) ;    
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+ h4 {
+    text-align: center;
+	background-color: rgb(255 0 0) ;
+ }
+
